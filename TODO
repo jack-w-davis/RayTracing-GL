@@ -1,0 +1,21 @@
+
+
+Application OBJ:
+    ☐ make callbacks part of the application
+
+Overall list:
+    @HIGH
+    ☐ add forward declarations to a header file
+    Opererator Overloading:
+        ☐ Plus        +
+        ☐ Plus-eq     +=
+        ☐ Minus       -
+        ☐ Minus-eq    -=
+        ☐ Divide      \
+        ☐ Divide-eq   \=
+        ☐ Multiply    *
+        ☐ Multiply-eq *=
+        ☐ cout        <<
+
+
+
