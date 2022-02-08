@@ -1,10 +1,16 @@
 
 
 Application OBJ:
+    
+    @HIGH
+    Clean up code:
+        ☐ refactor into objects/own files 
+
+    ☐ Remove comments and add my own
     ☐ make callbacks part of the application
 
+
 Overall list:
-    @HIGH
     ☐ add forward declarations to a header file
     Opererator Overloading:
         ☐ Plus        +
