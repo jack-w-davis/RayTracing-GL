@@ -16,7 +16,7 @@ LFLAGS= -lglfw -lGL -lX11 -lpthread -lXrandr -lXi -ldl -I INC_DIR
 #a generic makefile
 
 $(EXEC):$(OBJ)
-	$(CC) $(CFLAGS) -c /usr/include/glad/glad.c -o $(OBJ_DIR)/glad.o
+	# $(CC) $(CFLAGS) -c /usr/include/glad/glad.c -o $(OBJ_DIR)/glad.o
 	$(CC) $^ $(OBJ_DIR)/glad.o -o $@ $(LFLAGS)
 
 $(OBJ_DIR)/%.o: $(SRC_DIR)/%.cpp $(INC_DIR)/%.h
